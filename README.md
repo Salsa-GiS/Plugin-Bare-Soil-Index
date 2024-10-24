@@ -14,4 +14,4 @@ This plugin has been tested with QGIS version 3.38.3 and is compatible with all 
 
 ## Installation
 
-To install the plugin, simply download the latest release from [link] and follow the installation instructions provided in the documentation. Prerequisites for installation include QGIS 3.38 and Python 3.12. For detailed installation instructions and troubleshooting, please refer to the plugin documentation.
+To install the plugin, simply download the latest release from [here](https://github.com/Salsa-GiS/Plugin-Bare-Soil-Index/tree/main/baresoil_index) and follow the installation instructions provided in the documentation. Prerequisites for installation include QGIS 3.38 and Python 3.12. For detailed installation instructions and troubleshooting, please refer to the plugin documentation.
