@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/baresoil_index" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
